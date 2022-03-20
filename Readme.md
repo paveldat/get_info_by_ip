@@ -2,6 +2,8 @@
 You can set IP address or host to get IP information
 
 # Info by IP
+Example:
+
 Input: 176.31.84.249
 
 Output:
@@ -16,6 +18,8 @@ Output:
 ```
 
 # Info by hostname
+Example:
+
 Input: google.com
 
 Output:
