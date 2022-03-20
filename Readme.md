@@ -3,6 +3,7 @@ You can set IP address or host to get IP information
 
 # Info by IP
 Input: 176.31.84.249
+
 Output:
 ```
 [IP] : 176.31.84.249
@@ -16,6 +17,7 @@ Output:
 
 # Info by hostname
 Input: google.com
+
 Output:
 ```
 Hostname: google.com
